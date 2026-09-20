@@ -1,2 +1,2 @@
-# balrum_german_translation
-Balrum - German Translation / Deutsche Übersetzung
+# Balrum - German Translation / Deutsche Übersetzung
+Deutsche Übersetzung für das PC Spiel "Balrum"
